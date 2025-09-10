@@ -1,0 +1,6 @@
+# ninja log v6
+4	320	7790891139771332	build.ninja	fb86a4d691c5ac3f
+2	512	7790891140283502	CMakeFiles/HW2_circular_doubly_linked_list.dir/main.cpp.obj	52bf11cfdb39bff
+514	728	7790891145405126	HW2_circular_doubly_linked_list.exe	efd47d5b99a84b38
+15	1393	7791702562080496	CMakeFiles/HW2_circular_doubly_linked_list.dir/main.cpp.obj	52bf11cfdb39bff
+1394	1647	7791702575864374	HW2_circular_doubly_linked_list.exe	efd47d5b99a84b38
