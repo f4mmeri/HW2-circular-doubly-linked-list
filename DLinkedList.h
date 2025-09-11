@@ -12,7 +12,7 @@ struct Node{
 
     // Para nodos normales
     Node(T value) : data(value), next(nullptr), prev(nullptr) {}
-    
+
     // Para el nodo centinela
     Node() : next(this), prev(this) {}
 };

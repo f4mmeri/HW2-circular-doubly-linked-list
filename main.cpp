@@ -48,13 +48,13 @@ int main() {
     cout << endl;   // 20 99 10
 
     // Pruebas adicionales
-    cout << "Tamaño actual: " << cll.size() << endl;
+    cout << "Tamano actual: " << cll.size() << endl;
     cout << "Elemento en posicion 1: " << cll[1] << endl;
     
     // Clear
     cll.clear();
     cout << "Despues de clear, empty?: " << (cll.empty() ? "Si" : "No") << endl;
-    cout << "Tamaño despues de clear: " << cll.size() << endl;
+    cout << "Tamano despues de clear: " << cll.size() << endl;
 
     return 0;
 }
